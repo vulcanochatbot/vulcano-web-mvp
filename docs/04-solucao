@@ -1,0 +1,224 @@
+# Solução Proposta pelo Projeto Vulcano
+
+## Visão geral da solução
+
+O **Vulcano** propõe uma solução digital voltada para melhorar o processo de contratação de mão de obra na construção civil por meio de uma plataforma web simples, funcional e mais alinhada à realidade do setor.
+
+A proposta central do projeto é criar um ambiente em que **profissionais/candidatos** e **empresas/construtoras** possam se conectar de forma mais organizada, reduzindo a informalidade, a dispersão de informações e a dificuldade de acesso que hoje marcam grande parte desse processo.
+
+Em sua fase atual, o projeto foi estruturado como um **MVP web**, com escopo enxuto e objetivo, capaz de validar a proposta principal sem depender de uma arquitetura excessivamente complexa.
+
+---
+
+## O que a solução busca entregar
+
+A solução do Vulcano foi desenhada para oferecer uma base funcional que permita:
+
+- cadastro de candidatos;
+- cadastro de empresas;
+- login por perfil de acesso;
+- publicação de vagas;
+- visualização de oportunidades;
+- candidatura em vagas;
+- gerenciamento básico das informações;
+- apoio ao uso da plataforma por meio de chatbot contextual.
+
+Esses elementos formam o núcleo inicial da solução e representam a proposta mínima viável para demonstrar valor real no contexto do projeto.
+
+---
+
+## Proposta de valor
+
+A proposta de valor do Vulcano está em **simplificar e organizar** a conexão entre quem busca trabalho e quem precisa contratar na construção civil.
+
+Em vez de tentar competir com plataformas genéricas de emprego ou criar uma solução ampla demais logo no início, o projeto adota um recorte mais direcionado, com foco em:
+
+- praticidade;
+- clareza;
+- acessibilidade;
+- fluxo direto;
+- estrutura mínima útil para contratação.
+
+O Vulcano busca ser uma solução mais coerente com o contexto de uso do público, priorizando a facilidade de navegação e a organização das informações essenciais.
+
+---
+
+## Como a solução responde ao problema
+
+A proposta do Vulcano atua diretamente sobre os principais pontos de atrito identificados no cenário atual.
+
+### Problema: informalidade
+A solução cria um espaço mais estruturado para cadastro, vagas e candidaturas, reduzindo a dependência exclusiva de indicações e conversas dispersas.
+
+### Problema: falta de padronização
+A plataforma organiza informações mínimas relevantes de candidatos, empresas e vagas em um formato mais consistente.
+
+### Problema: dificuldade de acesso
+O MVP prioriza simplicidade de navegação, clareza visual e estrutura compreensível, facilitando o uso por diferentes perfis.
+
+### Problema: triagem manual e desorganizada
+Ao centralizar dados básicos e candidaturas, a solução já oferece um ponto de partida mais organizado para empresas e contratantes.
+
+### Problema: falta de orientação ao usuário
+O chatbot contextual atua como suporte inicial dentro da própria plataforma, ajudando o usuário a entender o que fazer e para onde ir.
+
+---
+
+## Estrutura funcional da solução
+
+A solução foi desenhada a partir de fluxos essenciais, suficientes para demonstrar a utilidade do produto no MVP.
+
+### 1. Entrada na plataforma
+O usuário acessa a página inicial e entende rapidamente a proposta do sistema, podendo seguir para cadastro, login ou visualização de vagas.
+
+### 2. Cadastro por tipo de usuário
+A plataforma diferencia os dois públicos principais:
+
+- **candidato/profissional**
+- **empresa/construtora**
+
+Cada perfil possui um cadastro adequado ao seu papel dentro do sistema.
+
+### 3. Acesso por login
+Após o cadastro, cada usuário pode entrar na plataforma conforme seu perfil e acessar suas funcionalidades básicas.
+
+### 4. Gestão de vagas
+Empresas podem criar vagas e gerenciar informações essenciais relacionadas às oportunidades publicadas.
+
+### 5. Visualização e candidatura
+Candidatos podem visualizar vagas disponíveis, acessar detalhes e se candidatar às oportunidades.
+
+### 6. Apoio por chatbot contextual
+O chatbot auxilia na navegação e no entendimento da plataforma, respondendo dúvidas ligadas ao uso do sistema e direcionando o usuário para ações relevantes.
+
+---
+
+## Papel do chatbot dentro da solução
+
+O chatbot continua sendo parte importante da identidade do projeto, mas, nesta fase, ele foi reposicionado de forma estratégica para manter o MVP viável.
+
+Em vez de depender inicialmente de uma inteligência artificial complexa, com grande volume de integrações, o chatbot no MVP tem função **contextual e assistiva**.
+
+Ele ajuda o usuário a:
+
+- entender como o site funciona;
+- localizar áreas de cadastro e login;
+- descobrir como ver vagas;
+- saber como se candidatar;
+- compreender como a empresa publica vagas;
+- esclarecer dúvidas básicas sobre o uso da plataforma.
+
+Essa abordagem preserva o diferencial do projeto sem comprometer a entrega funcional da aplicação.
+
+---
+
+## Características da solução no MVP
+
+A solução atual foi definida com base em critérios de viabilidade técnica, clareza de escopo e potencial de demonstração.
+
+Entre as características principais do MVP estão:
+
+- foco em um fluxo ponta a ponta funcional;
+- interface web simples;
+- organização separada por perfis de usuário;
+- banco de dados real para persistência das informações;
+- chatbot contextual integrado à experiência;
+- possibilidade de evolução futura sem reconstrução total da base.
+
+A intenção é que o projeto funcione como uma base sólida de validação e apresentação.
+
+---
+
+## O que a solução não pretende resolver nesta etapa
+
+Para manter coerência com a proposta de MVP, o Vulcano não tenta resolver toda a complexidade do ecossistema de contratação da construção civil nesta primeira fase.
+
+Por isso, esta etapa não busca entregar, por exemplo:
+
+- automações avançadas de recrutamento;
+- inteligência artificial altamente integrada ao banco com ações autônomas complexas;
+- grande volume de integrações externas;
+- sistema completo de avaliação, reputação ou analytics;
+- infraestrutura escalável de nível corporativo;
+- versão SaaS completa;
+- todas as funcionalidades imaginadas para o futuro do produto.
+
+Esses elementos podem ser considerados em evoluções futuras, mas não fazem parte do núcleo mínimo necessário para validar a proposta atual.
+
+---
+
+## Benefícios esperados da solução
+
+Mesmo com escopo enxuto, o Vulcano busca gerar benefícios importantes.
+
+### Para candidatos
+- acesso mais claro a vagas;
+- processo de cadastro mais organizado;
+- possibilidade de candidatura em um fluxo mais direto;
+- melhor visibilidade das oportunidades.
+
+### Para empresas
+- publicação centralizada de vagas;
+- recepção mais organizada de informações;
+- início de um processo mais estruturado de contratação;
+- redução da dependência de comunicação totalmente dispersa.
+
+### Para o projeto acadêmico
+- coerência entre problema e solução;
+- escopo executável;
+- demonstração prática do produto;
+- base concreta para documentação, apresentação e evolução.
+
+---
+
+## Direção tecnológica da solução
+
+A solução atual foi simplificada para favorecer a execução do projeto e a clareza do desenvolvimento.
+
+O MVP foi pensado como uma aplicação web com estrutura enxuta, priorizando:
+
+- simplicidade de implementação;
+- fácil entendimento do código;
+- manutenção viável;
+- organização compatível com o prazo e com a equipe;
+- possibilidade de demonstração funcional.
+
+Essa decisão foi importante para evitar que o projeto continuasse excessivamente pesado para o momento acadêmico atual.
+
+---
+
+## Relação entre solução e evolução futura
+
+O MVP do Vulcano não representa o limite final do produto, mas sim sua base inicial validável.
+
+A estrutura atual permite pensar em evoluções futuras, como:
+
+- melhorias no chatbot;
+- mais automação no processo de atendimento;
+- novas formas de triagem;
+- integrações com canais externos;
+- histórico mais robusto;
+- expansão de funcionalidades para empresas e profissionais.
+
+No entanto, a lógica adotada pelo projeto é começar pelo que é essencial, comprovar a utilidade da solução e evoluir com mais segurança a partir de uma base funcional.
+
+---
+
+## O que este documento registra
+
+Esta seção registra:
+
+- qual é a solução proposta pelo Vulcano;
+- como ela responde ao problema identificado;
+- quais funcionalidades formam o núcleo do MVP;
+- qual é o papel do chatbot na versão atual;
+- quais limites foram definidos para manter a solução viável;
+- quais benefícios são esperados com essa proposta.
+
+Ela funciona como a ponte entre a análise do problema e a organização prática do produto no repositório principal.
+
+---
+
+## Resumo da solução
+
+O Vulcano propõe uma plataforma web simples para organizar a conexão entre profissionais da construção civil e empresas contratantes. A solução atual foi estruturada como um MVP funcional, com cadastro, login, vagas, candidatura, gerenciamento básico e chatbot contextual. Seu foco está em reduzir a informalidade, organizar informações essenciais e criar um fluxo mais acessível, direto e viável tanto para demonstração acadêmica quanto para evolução futura.
