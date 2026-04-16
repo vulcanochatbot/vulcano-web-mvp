@@ -1,0 +1,271 @@
+# Apresentação do Projeto Vulcano
+
+## Visão geral
+
+A apresentação do projeto **Vulcano** tem como objetivo comunicar de forma clara, organizada e convincente a proposta desenvolvida pela equipe, mostrando o problema identificado, a solução construída, a lógica do MVP e os principais resultados alcançados até esta fase.
+
+Mais do que apenas exibir telas ou funcionalidades, a apresentação deve demonstrar que o projeto possui:
+
+- um problema real e relevante;
+- uma justificativa coerente;
+- uma solução alinhada ao contexto analisado;
+- um MVP funcional;
+- uma organização consistente;
+- potencial de evolução futura.
+
+Esta seção funciona como base para estruturar a narrativa da apresentação acadêmica do projeto.
+
+---
+
+## Objetivo da apresentação
+
+A apresentação do Vulcano deve permitir que o público compreenda:
+
+- qual problema o projeto busca resolver;
+- por que esse problema é importante;
+- como a equipe chegou à solução proposta;
+- o que foi desenvolvido no MVP;
+- quais decisões estratégicas foram tomadas;
+- como o projeto foi organizado;
+- qual valor a solução entrega nesta etapa.
+
+Em outras palavras, a apresentação precisa unir **contexto, lógica, produto e evidência**.
+
+---
+
+## Mensagem principal que a apresentação deve transmitir
+
+A mensagem central da apresentação do Vulcano pode ser resumida assim:
+
+> O Vulcano é uma plataforma web em formato de MVP, criada para enfrentar a desorganização e a informalidade no processo de contratação na construção civil, conectando profissionais e empresas de forma mais simples, acessível e funcional.
+
+Essa mensagem deve aparecer de forma consistente ao longo de toda a apresentação.
+
+---
+
+## Estrutura sugerida da apresentação
+
+A seguir está uma estrutura recomendada para organizar os slides ou a fala da equipe.
+
+### 1. Abertura
+Apresentar o nome do projeto, a proposta geral e o foco do trabalho.
+
+Pontos importantes:
+- nome do projeto;
+- contexto acadêmico;
+- visão geral da proposta;
+- frase curta de impacto sobre o que o Vulcano busca resolver.
+
+### 2. Problema identificado
+Explicar de forma objetiva qual problema foi observado no setor da construção civil.
+
+Pontos importantes:
+- contratação ainda muito informal;
+- dificuldade de encontrar profissionais com rapidez;
+- informações despadronizadas;
+- canais dispersos;
+- barreiras de acesso digital;
+- impactos em atrasos e retrabalho.
+
+### 3. Público-alvo
+Mostrar quem é afetado pelo problema e para quem a solução foi pensada.
+
+Pontos importantes:
+- profissionais/candidatos;
+- empresas/construtoras;
+- encarregados, RH e pequenos empreiteiros;
+- necessidade de simplicidade e acessibilidade.
+
+### 4. Pesquisa e base de análise
+Mostrar que a solução não foi tirada do nada, mas construída com base em análise de contexto e organização do projeto.
+
+Pontos importantes:
+- estudo do problema;
+- materiais de personas e jornada;
+- mapa da empatia;
+- 5W2H;
+- backlog;
+- redefinição do escopo.
+
+### 5. Mudança de direção do projeto
+Explicar que o projeto passou por uma evolução estratégica para se tornar mais viável.
+
+Pontos importantes:
+- ideia inicial mais ampla;
+- identificação do risco de excesso de escopo;
+- decisão de enxugar o projeto;
+- foco em MVP funcional e executável;
+- priorização do que realmente entrega valor.
+
+### 6. Solução proposta
+Apresentar o que o Vulcano entrega como solução nesta fase.
+
+Pontos importantes:
+- plataforma web simples;
+- cadastro de candidatos e empresas;
+- publicação e visualização de vagas;
+- candidatura;
+- gerenciamento básico;
+- chatbot contextual.
+
+### 7. Demonstração do MVP
+Mostrar as principais partes do sistema funcionando.
+
+Pontos importantes:
+- home;
+- cadastro de candidato;
+- cadastro de empresa;
+- login;
+- listagem de vagas;
+- detalhe da vaga;
+- candidatura;
+- painel do candidato;
+- painel da empresa;
+- chatbot integrado.
+
+### 8. Estrutura do backlog e planejamento
+Mostrar que o projeto foi organizado com prioridade e foco.
+
+Pontos importantes:
+- backlog centrado no MVP;
+- separação entre Must, Should, Could e Post-MVP;
+- organização por etapas/sprints;
+- consolidação do GitHub principal.
+
+### 9. Evidências e documentação
+Apresentar que o projeto possui base documental e registro da evolução.
+
+Pontos importantes:
+- repositório principal organizado;
+- pasta `docs/`;
+- materiais de apoio;
+- prints do sistema;
+- backlog e planejamento consolidados.
+
+### 10. Resultados e valor entregue
+Mostrar o que a equipe conseguiu alcançar até agora.
+
+Pontos importantes:
+- MVP funcional;
+- fluxo ponta a ponta;
+- proposta coerente com o problema;
+- base estruturada para evolução futura;
+- solução demonstrável e aplicável ao contexto estudado.
+
+### 11. Próximos passos
+Encerrar mostrando que o projeto tem continuidade possível.
+
+Pontos importantes:
+- melhorias no chatbot;
+- novas integrações;
+- evolução do fluxo de contratação;
+- ampliação da usabilidade;
+- novas funcionalidades futuras.
+
+### 12. Encerramento
+Fechar com clareza e segurança.
+
+Pontos importantes:
+- reforço da proposta de valor;
+- síntese do que foi construído;
+- agradecimento;
+- abertura para perguntas.
+
+---
+
+## Roteiro de narrativa recomendado
+
+A apresentação do Vulcano tende a ficar mais forte quando segue uma narrativa lógica.
+
+Uma sequência boa de raciocínio é:
+
+1. existe um problema real;
+2. esse problema impacta pessoas e organizações;
+3. a equipe estudou esse cenário;
+4. percebeu que precisava de uma solução viável;
+5. reorganizou a proposta para um MVP realista;
+6. desenvolveu uma plataforma funcional;
+7. documentou e organizou o projeto;
+8. chegou a uma base concreta com potencial de evolução.
+
+Essa linha evita que a apresentação vire apenas uma exposição de telas sem contexto.
+
+---
+
+## O que valorizar durante a fala
+
+Durante a apresentação, vale destacar alguns pontos que fortalecem o projeto:
+
+- o projeto nasceu de um problema real;
+- houve maturidade para reduzir escopo;
+- a equipe buscou uma entrega funcional, e não apenas conceitual;
+- o MVP foi pensado para ser simples, mas útil;
+- o chatbot foi mantido de forma coerente com a viabilidade técnica;
+- a documentação acompanha a evolução do produto;
+- o projeto tem base para crescer no futuro.
+
+Esses pontos mostram domínio e maturidade na condução do trabalho.
+
+---
+
+## O que evitar na apresentação
+
+Para manter a defesa do projeto forte, é importante evitar alguns erros comuns:
+
+- falar do projeto como se ele já resolvesse todo o setor;
+- exagerar promessas técnicas que não estão implementadas;
+- misturar MVP com ideias futuras sem deixar isso claro;
+- focar só em interface sem explicar problema e valor;
+- apresentar backlog ou documentação de forma confusa;
+- passar a impressão de que o projeto ficou grande demais para a equipe;
+- deixar a mudança de direção parecer improviso, em vez de estratégia.
+
+A apresentação deve transmitir foco, clareza e consciência das escolhas feitas.
+
+---
+
+## Sugestão de materiais para apoiar a apresentação
+
+Alguns materiais ajudam bastante durante a apresentação:
+
+- print da home;
+- print do cadastro de candidato;
+- print do cadastro de empresa;
+- print da listagem de vagas;
+- print do detalhe da vaga;
+- print do chatbot;
+- imagem da estrutura documental do repositório;
+- visão resumida do backlog;
+- síntese visual do problema e da solução.
+
+Esses materiais ajudam a deixar a apresentação mais concreta e mais fácil de acompanhar.
+
+---
+
+## Relação entre apresentação e repositório
+
+A apresentação deve conversar diretamente com o que está no GitHub principal.
+
+Isso significa que o repositório precisa refletir a narrativa apresentada, contendo:
+
+- README principal coerente;
+- pasta `docs/` organizada;
+- backlog e planejamento consolidados;
+- evidências visuais;
+- estrutura clara do MVP.
+
+Quando há alinhamento entre fala, slides e repositório, a percepção de qualidade do projeto aumenta bastante.
+
+---
+
+## Estrutura sugerida desta pasta
+
+Dentro de `docs/08-apresentacao/`, esta organização pode funcionar bem:
+
+```text
+docs/08-apresentacao/
+  README.md
+  roteiro.md
+  estrutura-dos-slides.md
+  pontos-para-defesa.md
+  perguntas-e-respostas.md
