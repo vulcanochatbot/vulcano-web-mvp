@@ -1,0 +1,70 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Flask / app instance
+# =========================
+instance/
+*.db
+*.sqlite3
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# JetBrains
+# =========================
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing / cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Node (caso use algo futuro)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
