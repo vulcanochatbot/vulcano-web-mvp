@@ -1,0 +1,287 @@
+# Planejamento do Projeto Vulcano
+
+## Visão geral
+
+O planejamento do projeto **Vulcano** foi estruturado para transformar uma proposta inicialmente ampla em um **MVP web funcional, viável e coerente com a realidade da equipe, do prazo acadêmico e do problema que se deseja resolver**.
+
+Nesta fase, o planejamento não tem como foco construir um cronograma excessivamente complexo, mas organizar o projeto de forma prática, permitindo que a equipe avance com clareza sobre o que precisa ser feito, em que ordem e com qual objetivo.
+
+O planejamento do Vulcano está diretamente conectado ao backlog do produto, às prioridades do MVP e à necessidade de manter o escopo sob controle.
+
+---
+
+## Objetivo do planejamento
+
+O planejamento do projeto busca garantir que a equipe consiga:
+
+- organizar a execução do MVP de forma realista;
+- manter foco no que é essencial;
+- distribuir melhor as frentes de trabalho;
+- evitar retrabalho;
+- acompanhar a evolução do produto;
+- alinhar desenvolvimento, documentação e apresentação;
+- entregar uma solução funcional dentro da proposta da disciplina.
+
+Mais do que prever tudo com exatidão, o planejamento do Vulcano serve para **dar direção, foco e previsibilidade mínima** ao projeto.
+
+---
+
+## Mudança estratégica de direção
+
+Um ponto central do planejamento foi a decisão de **reorganizar o projeto**.
+
+Inicialmente, o Vulcano caminhava para uma solução mais complexa, com mais camadas técnicas e maior escopo. No entanto, a equipe identificou que esse caminho aumentava o risco de não conseguir entregar um MVP realmente funcional.
+
+A partir dessa análise, foi feita uma mudança estratégica:
+
+- reduzir a complexidade técnica;
+- simplificar a arquitetura;
+- priorizar a experiência funcional mínima;
+- centralizar a execução em uma aplicação web mais enxuta;
+- manter o chatbot de forma contextual, sem torná-lo um bloqueio técnico para o produto.
+
+Essa decisão foi fundamental para tornar o projeto mais executável.
+
+---
+
+## Princípios de planejamento adotados
+
+O planejamento do Vulcano foi guiado por alguns princípios principais:
+
+### 1. Escopo realista
+A equipe prioriza o que é possível implementar com qualidade mínima, em vez de tentar abraçar funcionalidades demais.
+
+### 2. Entrega funcional
+A prioridade é garantir que o sistema funcione de ponta a ponta, mesmo que com menos recursos avançados.
+
+### 3. Clareza de organização
+O projeto deve ser compreensível tanto para quem desenvolve quanto para quem avalia.
+
+### 4. Evolução incremental
+O produto é construído por partes, consolidando primeiro a base essencial e deixando expansões para depois.
+
+### 5. Integração entre produto e documentação
+O código não caminha separado da documentação. O planejamento também considera README, docs, backlog, evidências e apresentação.
+
+---
+
+## Estrutura geral de execução
+
+O planejamento do MVP pode ser entendido em grandes frentes de execução.
+
+### 1. Consolidação da direção do projeto
+Etapa em que o time redefine a proposta, reduz o escopo e alinha o foco do Vulcano ao formato de MVP web funcional.
+
+### 2. Organização do produto
+Etapa ligada à consolidação do backlog, definição de prioridades e estruturação do que realmente entra no MVP.
+
+### 3. Desenvolvimento da base do sistema
+Construção da aplicação principal, páginas centrais, rotas, autenticação, banco e fluxos fundamentais.
+
+### 4. Implementação das funcionalidades do MVP
+Entrega dos fluxos de cadastro, login, vagas, candidatura, painéis e chatbot contextual.
+
+### 5. Refinamento e validação
+Ajustes de usabilidade, revisão de erros, melhorias visuais e checagem da coerência do fluxo ponta a ponta.
+
+### 6. Consolidação documental
+Organização do GitHub principal, README, pasta `docs`, backlog, planejamento, evidências e materiais de apoio.
+
+### 7. Preparação para apresentação
+Etapa de organização das evidências, narrativa do projeto e estrutura do material de defesa/apresentação acadêmica.
+
+---
+
+## Planejamento por blocos do MVP
+
+Para facilitar a execução, o projeto pode ser planejado em blocos práticos.
+
+### Bloco 1 — Base da aplicação
+- estrutura principal do projeto;
+- organização das rotas;
+- páginas iniciais;
+- definição da base de navegação;
+- estruturação do banco.
+
+### Bloco 2 — Usuários e autenticação
+- cadastro de candidato;
+- cadastro de empresa;
+- login por perfil;
+- persistência dos dados;
+- controle básico de acesso.
+
+### Bloco 3 — Vagas e candidaturas
+- criação de vagas;
+- listagem de vagas;
+- detalhe da vaga;
+- candidatura;
+- vínculo entre usuário e oportunidade.
+
+### Bloco 4 — Painéis e gerenciamento
+- painel do candidato;
+- painel da empresa;
+- visualização básica de informações;
+- gerenciamento inicial de vagas.
+
+### Bloco 5 — Chatbot contextual
+- integração do chatbot na interface;
+- definição de respostas ligadas ao escopo do sistema;
+- orientação sobre cadastro, login, vagas e uso da plataforma.
+
+### Bloco 6 — Qualidade e finalização
+- ajustes de interface;
+- responsividade;
+- validações mínimas;
+- correção de erros;
+- revisão final do fluxo.
+
+### Bloco 7 — Documentação e apresentação
+- README principal;
+- documentação em `docs/`;
+- organização do backlog;
+- preparação de evidências;
+- estrutura de apresentação acadêmica.
+
+---
+
+## Relação com sprints
+
+O Vulcano pode ser acompanhado por sprints curtas, com foco em evolução incremental. O mais importante não é a formalidade do framework, mas a clareza do avanço.
+
+Uma divisão possível é:
+
+### Sprint 1 — Estruturação e base
+- consolidação do escopo;
+- organização do projeto;
+- definição da base técnica;
+- páginas principais e estrutura inicial.
+
+### Sprint 2 — Cadastro e autenticação
+- cadastro de candidato;
+- cadastro de empresa;
+- login;
+- persistência básica de usuários.
+
+### Sprint 3 — Vagas e candidaturas
+- criação e listagem de vagas;
+- visualização de detalhes;
+- candidatura em vaga;
+- vínculo entre perfis e dados.
+
+### Sprint 4 — Painéis, chatbot e refinamento
+- painel do candidato;
+- painel da empresa;
+- chatbot contextual;
+- melhorias de UX;
+- revisão final do MVP.
+
+### Sprint 5 — Documentação e apresentação
+- revisão do README;
+- consolidação da pasta `docs`;
+- organização das evidências;
+- preparação da defesa do projeto.
+
+Essa divisão pode ser ajustada conforme o estágio atual da equipe, mas funciona bem como lógica documental para o repositório.
+
+---
+
+## Distribuição de responsabilidades
+
+O planejamento também deve considerar a distribuição do trabalho entre os integrantes, para evitar concentração excessiva em uma única pessoa.
+
+A divisão pode ser feita por frente, por exemplo:
+
+- desenvolvimento da base web;
+- banco e persistência;
+- interface e experiência do usuário;
+- chatbot e fluxos conversacionais;
+- documentação e organização do GitHub;
+- backlog, planejamento e apresentação.
+
+Mesmo quando uma pessoa lidera tecnicamente uma frente, é importante manter visibilidade compartilhada do andamento geral do projeto.
+
+---
+
+## Riscos de execução observados
+
+Ao planejar o Vulcano, alguns riscos precisam ser considerados.
+
+### Excesso de escopo
+Adicionar funcionalidades demais pode comprometer a entrega do MVP.
+
+### Complexidade técnica desnecessária
+Escolhas muito pesadas de arquitetura ou integração podem atrasar o projeto sem gerar valor proporcional nesta fase.
+
+### Documentação deixada para o final
+Quando a documentação não acompanha a evolução do projeto, a organização final fica mais difícil.
+
+### Falta de alinhamento entre o que está no GitHub e o que realmente virou MVP
+Esse ponto pode gerar confusão na apresentação e na avaliação do projeto.
+
+### Dependência excessiva de uma única parte do sistema
+Se o projeto depender demais de uma funcionalidade avançada para “parecer completo”, o risco de travar a entrega aumenta.
+
+O planejamento ajuda justamente a reduzir esses riscos.
+
+---
+
+## Medidas adotadas para reduzir risco
+
+Para diminuir os riscos do projeto, o planejamento do Vulcano adota algumas medidas práticas:
+
+- manter o foco no núcleo funcional do MVP;
+- simplificar a arquitetura;
+- separar claramente MVP e pós-MVP;
+- consolidar documentação no repositório principal;
+- trabalhar por blocos menores;
+- revisar backlog continuamente;
+- evitar promessas técnicas maiores do que a equipe consegue executar nesta fase.
+
+Essas medidas ajudam o projeto a permanecer viável e coerente.
+
+---
+
+## Planejamento e organização do GitHub
+
+Uma parte importante do planejamento atual é a reorganização do GitHub do projeto.
+
+Em vez de manter vários repositórios ativos com conteúdo fragmentado, a proposta é consolidar o material mais importante no repositório principal do MVP, usando uma estrutura documental organizada dentro da pasta `docs/`.
+
+Isso favorece:
+
+- clareza de leitura;
+- centralização da documentação;
+- melhor apresentação do projeto;
+- preservação da evolução do trabalho;
+- alinhamento entre código e documentação.
+
+Os repositórios antigos podem ser arquivados após a migração do conteúdo útil, preservando histórico sem comprometer a organização.
+
+---
+
+## Resultado esperado do planejamento
+
+Ao final da execução planejada, o projeto deve apresentar:
+
+- um MVP web funcional;
+- um fluxo ponta a ponta demonstrável;
+- documentação coerente com o produto;
+- backlog organizado;
+- materiais de apoio e evidências;
+- estrutura de apresentação adequada para a disciplina.
+
+Ou seja, o planejamento não busca apenas “entregar tarefas”, mas garantir uma entrega final mais sólida e compreensível.
+
+---
+
+## Estrutura sugerida da pasta
+
+Dentro de `docs/06-planejamento/`, esta organização pode funcionar bem:
+
+```text
+docs/06-planejamento/
+  README.md
+  roadmap.md
+  sprints.md
+  riscos-e-mitigacoes.md
+  organizacao-do-github.md
