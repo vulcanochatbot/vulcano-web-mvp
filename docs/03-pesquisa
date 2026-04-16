@@ -1,0 +1,192 @@
+# Pesquisa, Referências e Base de Sustentação do Projeto
+
+## Visão geral
+
+O projeto **Vulcano** não foi definido apenas a partir de uma ideia abstrata de produto. Sua construção foi apoiada por análises, materiais de referência, estudos sobre backlog, evidências sobre o problema social e reflexões sobre o contexto de contratação na construção civil.
+
+Esta seção reúne a base de pesquisa que ajudou a orientar o projeto, mostrando como o Vulcano foi sendo sustentado por observações sobre o setor, sobre os usuários e sobre a forma de estruturar a solução.
+
+O objetivo aqui não é transformar o projeto em um levantamento teórico excessivamente longo, mas registrar de forma organizada quais foram os principais eixos de pesquisa que influenciaram o desenvolvimento do MVP.
+
+---
+
+## Frentes principais de pesquisa
+
+A base de pesquisa do projeto pode ser organizada em quatro frentes principais:
+
+### 1. Pesquisa sobre o contexto do problema
+Materiais voltados para entender a dificuldade de contratação na construção civil, a informalidade do processo, as barreiras de acesso e os impactos práticos desse cenário.
+
+### 2. Pesquisa sobre os usuários e sua jornada
+Materiais ligados a personas, mapa da empatia, jornada atual e jornada desejada, ajudando a visualizar dores, comportamentos e necessidades reais dos públicos envolvidos.
+
+### 3. Pesquisa sobre a solução proposta
+Materiais que discutem como a contratação poderia ser reorganizada com mais simplicidade, padronização e acessibilidade, considerando o uso de tecnologia como meio facilitador.
+
+### 4. Pesquisa sobre organização do produto e backlog
+Conteúdos estudados para estruturar melhor o backlog do projeto, definir prioridades, separar o que é MVP do que fica para depois e manter uma lógica realista de execução.
+
+---
+
+## Pesquisa sobre o problema na construção civil
+
+Ao longo da construção do projeto, foi identificada uma visão recorrente: a contratação na construção civil ainda acontece de forma muito manual, descentralizada e informal.
+
+Essa percepção foi reforçada pelos materiais do projeto que apontam aspectos como:
+
+- dificuldade de contratar profissionais qualificados com rapidez;
+- canais fragmentados de comunicação;
+- excesso de dependência de indicação;
+- falta de padronização nas informações compartilhadas;
+- barreiras de letramento digital;
+- uso predominante do celular e do WhatsApp;
+- impactos em atrasos, retrabalho e organização da equipe.
+
+Essa base de análise foi importante para mostrar que o problema não era apenas “falta de tecnologia”, mas sim a ausência de um fluxo simples e adaptado ao contexto real do setor.
+
+---
+
+## Pesquisa sobre acessibilidade e comportamento de uso
+
+Outro ponto importante da pesquisa foi entender que o público-alvo do Vulcano não necessariamente interage bem com plataformas complexas, cheias de etapas ou excesso de texto.
+
+Os materiais analisados indicam que parte significativa dos usuários:
+
+- prefere soluções simples e diretas;
+- usa o celular como principal meio de acesso;
+- tem familiaridade maior com WhatsApp do que com plataformas tradicionais;
+- precisa de linguagem clara e objetiva;
+- pode ter dificuldade com leitura extensa ou processos burocráticos.
+
+Essas observações influenciaram diretamente a decisão de tornar o MVP mais enxuto, mais compreensível e mais orientado a fluxos básicos que realmente poderiam ser utilizados.
+
+---
+
+## Pesquisa com foco em personas e jornada
+
+A construção do projeto também foi apoiada por materiais de personas e jornada, que ajudaram a tornar o problema mais concreto.
+
+Esses materiais mostraram perfis como:
+
+### Trabalhador operacional
+Profissional que depende muito de indicação, usa o celular como ferramenta principal, guarda informações práticas no aparelho e precisa de uma forma rápida e simples de se apresentar para oportunidades.
+
+### Encarregado ou responsável pela contratação
+Pessoa que sofre com triagem manual, checagens demoradas, falta de histórico e dificuldade para comparar perfis de maneira organizada.
+
+### Pequeno empreiteiro ou contratante com urgência
+Perfil que precisa montar equipe rapidamente e quer acessar informações mínimas com mais clareza para tomar decisão sem excesso de retrabalho.
+
+A análise da jornada também destacou um contraste importante:
+
+- **jornada atual (AS-IS):** informal, fragmentada, lenta e confusa;
+- **jornada desejada (TO-BE):** mais padronizada, acessível, clara e prática.
+
+Esse entendimento reforçou a necessidade de propor um fluxo mais simples e centralizado.
+
+---
+
+## Pesquisa sobre direção da solução
+
+Os materiais de solução do projeto reforçaram algumas diretrizes que influenciaram fortemente a forma final do MVP.
+
+Entre elas:
+
+- reduzir atrito na entrada do usuário;
+- concentrar informações mínimas importantes;
+- simplificar o processo de cadastro e candidatura;
+- facilitar a publicação e visualização de vagas;
+- considerar o uso de canais familiares ao público;
+- criar base para histórico e organização futura;
+- usar chatbot como apoio contextual, e não como complexidade desnecessária.
+
+A partir disso, o projeto deixou de perseguir inicialmente uma solução muito ampla e passou a priorizar uma estrutura mais realista de validação.
+
+---
+
+## Pesquisa sobre backlog e organização do produto
+
+Uma parte importante da pesquisa do Vulcano foi dedicada a entender como organizar backlog, priorização e refinamento de forma correta.
+
+Foram analisados materiais sobre backlog que reforçaram pontos como:
+
+- o backlog do produto deve ser a fonte central de requisitos e evolução do projeto;
+- backlog não é apenas lista de ideias, mas uma estrutura priorizada de trabalho;
+- o Product Owner ou responsável pelo produto deve manter o backlog organizado e alinhado ao valor;
+- itens podem incluir funcionalidades, melhorias, bugs, dívida técnica e infraestrutura;
+- é importante separar claramente o que é MVP do que fica para depois;
+- backlog precisa ser revisado continuamente;
+- itens grandes devem ser quebrados em partes menores e executáveis;
+- a priorização deve considerar valor, urgência, risco, retorno e esforço.
+
+Essas referências ajudaram a evitar que o projeto permanecesse inchado ou excessivamente ambicioso.
+
+---
+
+## Impacto da pesquisa na redefinição do projeto
+
+A pesquisa teve papel central na mudança de direção do Vulcano.
+
+Inicialmente, o projeto caminhava para uma solução mais complexa, com maior peso técnico e escopo mais amplo. No entanto, a análise mais cuidadosa do contexto, do prazo acadêmico, da viabilidade do time e da natureza do problema levou a uma conclusão importante:
+
+> o projeto precisava ser reorganizado para um MVP funcional, enxuto e coerente com a realidade da equipe e da disciplina.
+
+Essa redefinição não representou uma perda de valor, mas sim um ganho de foco.
+
+Em vez de tentar resolver tudo de uma vez, o Vulcano passou a concentrar seus esforços em uma base funcional que realmente demonstra a proposta do produto.
+
+---
+
+## O que a pesquisa ajudou a definir no MVP
+
+Com base no conjunto de materiais e análises, a pesquisa ajudou a consolidar decisões como:
+
+- manter o foco em um **MVP web simples**;
+- priorizar **cadastro, vagas, candidatura e gerenciamento básico**;
+- usar o **chatbot como apoio contextual** dentro da plataforma;
+- organizar melhor a documentação do projeto;
+- consolidar backlog e materiais conceituais em torno do repositório principal;
+- deixar recursos mais avançados para fases futuras.
+
+Essa base foi importante para alinhar produto, documentação e execução.
+
+---
+
+## Limites desta seção
+
+Esta documentação não substitui todos os materiais originais produzidos ou analisados ao longo do projeto. Em vez disso, ela funciona como uma síntese organizada da base de pesquisa que sustentou as decisões principais do Vulcano.
+
+Os documentos detalhados, referências específicas e materiais complementares podem ser mantidos em arquivos auxiliares desta pasta ou em subpastas relacionadas.
+
+---
+
+## Estrutura sugerida para aprofundamento
+
+Caso seja necessário expandir esta área depois, esta pasta pode conter arquivos complementares como:
+
+- `referencias-problema.md`
+- `personas-e-jornada.md`
+- `diretrizes-da-solucao.md`
+- `referencias-backlog.md`
+
+Assim, o `README.md` permanece como visão central da pesquisa, enquanto os demais arquivos detalham cada frente com mais profundidade.
+
+---
+
+## O que este documento registra
+
+Esta seção registra:
+
+- as principais frentes de pesquisa que sustentaram o projeto;
+- como o problema foi compreendido;
+- como o perfil dos usuários influenciou a solução;
+- como a pesquisa ajudou a redefinir o escopo;
+- como as referências sobre backlog e organização do produto fortaleceram a execução do MVP.
+
+Ela serve como ponte entre o entendimento do problema e a formulação prática da solução apresentada pelo Vulcano.
+
+---
+
+## Resumo da pesquisa
+
+A pesquisa do projeto Vulcano reuniu análises sobre o problema da contratação na construção civil, o perfil dos usuários, a jornada atual de recrutamento, possíveis direções de solução e boas práticas de organização de backlog. Esse conjunto de referências ajudou a equipe a sair de uma proposta ampla e complexa para um MVP web mais enxuto, funcional e alinhado à realidade do setor, do time e da disciplina.
