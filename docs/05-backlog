@@ -1,0 +1,296 @@
+# Backlog do Projeto Vulcano
+
+## Visão geral
+
+O backlog do projeto **Vulcano** representa a organização das funcionalidades, necessidades e entregas previstas para o produto, servindo como referência central para orientar o desenvolvimento do MVP.
+
+Ele foi estruturado para manter o projeto alinhado com sua proposta principal: entregar uma solução web simples, funcional e viável para conectar profissionais da construção civil a empresas, com foco em cadastro, vagas, candidaturas e suporte contextual por chatbot.
+
+Nesta documentação, o backlog não é tratado apenas como uma lista solta de tarefas, mas como uma forma de transformar a visão do produto em trabalho organizado, priorizado e executável.
+
+---
+
+## Papel do backlog no projeto
+
+O backlog do Vulcano tem a função de:
+
+- traduzir a visão do produto em entregas concretas;
+- organizar o trabalho da equipe;
+- apoiar a definição do MVP;
+- separar o que é prioridade do que pode ficar para depois;
+- evitar excesso de complexidade;
+- manter o projeto alinhado com a realidade da disciplina, do prazo e da equipe.
+
+Por isso, o backlog é parte essencial da documentação e da execução do projeto.
+
+---
+
+## Lógica adotada para o backlog
+
+O backlog do Vulcano foi pensado com foco em **valor, viabilidade e coerência com o MVP**.
+
+Isso significa que as prioridades do projeto não foram definidas apenas pelo que seria “interessante ter”, mas principalmente pelo que era necessário para colocar a proposta no ar de forma funcional.
+
+A lógica adotada considera:
+
+- valor para o funcionamento do produto;
+- importância para validar a proposta do projeto;
+- dependência técnica entre funcionalidades;
+- clareza de escopo;
+- viabilidade de implementação;
+- adequação ao contexto acadêmico.
+
+---
+
+## Estrutura de priorização
+
+Para facilitar a organização do backlog, os itens foram distribuídos por prioridade.
+
+### Must
+Itens indispensáveis para o funcionamento do MVP. Sem eles, a proposta principal do projeto não se sustenta.
+
+### Should
+Itens importantes, mas não absolutamente obrigatórios para a primeira validação do produto. Agregam qualidade e completam melhor a experiência.
+
+### Could
+Itens desejáveis, mas que podem ser implementados depois sem comprometer a essência do MVP.
+
+### Post-MVP
+Itens pensados para evolução futura do produto, fora do escopo mínimo necessário da fase atual.
+
+---
+
+## Objetivo do backlog do MVP
+
+O objetivo do backlog nesta etapa é garantir que o Vulcano consiga demonstrar, de ponta a ponta, um fluxo mínimo funcional envolvendo:
+
+- entrada na plataforma;
+- cadastro de candidatos;
+- cadastro de empresas;
+- login por perfil;
+- publicação de vagas;
+- visualização de vagas;
+- candidatura;
+- gerenciamento básico;
+- suporte inicial por chatbot contextual.
+
+Tudo o que está no backlog deve, direta ou indiretamente, contribuir para esse núcleo.
+
+---
+
+## Macro-organização do backlog
+
+O backlog do projeto pode ser entendido em grandes blocos funcionais.
+
+### 1. Base do sistema
+Itens relacionados à estrutura mínima da aplicação, navegação, organização da interface e funcionamento central do sistema.
+
+### 2. Autenticação e acesso
+Itens ligados a cadastro, login, diferenciação de perfis e controle básico de entrada do usuário.
+
+### 3. Área do candidato
+Itens voltados para o cadastro e acompanhamento do profissional dentro da plataforma.
+
+### 4. Área da empresa
+Itens voltados para o cadastro da empresa, criação de vagas e gerenciamento inicial.
+
+### 5. Vagas e candidaturas
+Itens que permitem a publicação, visualização e candidatura em oportunidades.
+
+### 6. Chatbot contextual
+Itens ligados ao assistente da plataforma, com foco em orientação de navegação e dúvidas sobre uso do sistema.
+
+### 7. Qualidade, usabilidade e segurança
+Itens voltados para responsividade, consistência da experiência, validações e boas práticas mínimas.
+
+### 8. Entrega e documentação
+Itens ligados à organização do projeto, README, documentação funcional e técnica, evidências e apresentação.
+
+---
+
+## Backlog consolidado do MVP
+
+A seguir está uma forma consolidada e alinhada do backlog do Vulcano para documentação no repositório principal.
+
+---
+
+## Must — Itens essenciais do MVP
+
+### Base do sistema
+- estruturar a aplicação web principal;
+- organizar páginas e rotas centrais;
+- criar navegação básica funcional;
+- manter uma interface clara e compreensível;
+- garantir fluxo funcional ponta a ponta.
+
+### Cadastro e autenticação
+- cadastro de candidato;
+- cadastro de empresa;
+- login de candidato;
+- login de empresa;
+- separação de acesso por tipo de usuário;
+- persistência dos dados principais no banco.
+
+### Área do candidato
+- formulário de cadastro com informações essenciais;
+- painel básico do candidato;
+- visualização das próprias informações;
+- acesso às vagas disponíveis;
+- candidatura em vagas.
+
+### Área da empresa
+- formulário de cadastro da empresa;
+- painel básico da empresa;
+- criação de vagas;
+- listagem de vagas criadas;
+- gerenciamento inicial das vagas.
+
+### Vagas
+- listagem de vagas na plataforma;
+- página de detalhes da vaga;
+- associação entre vaga e empresa;
+- candidatura vinculada ao candidato.
+
+### Chatbot contextual
+- chatbot integrado ao site;
+- respostas voltadas ao contexto da plataforma;
+- orientação sobre cadastro, login, vagas e candidatura;
+- limitação do chatbot ao escopo do sistema;
+- apoio inicial de navegação e uso.
+
+### Banco e persistência
+- banco de dados funcional;
+- estrutura mínima para usuários, candidatos, empresas, vagas e candidaturas;
+- criação automática ou inicialização adequada da base;
+- persistência de dados reais do MVP.
+
+### Qualidade mínima
+- responsividade básica;
+- validações essenciais de formulário;
+- organização visual coerente;
+- tratamento mínimo de erros de uso;
+- senhas armazenadas com segurança adequada para o escopo do projeto.
+
+### Documentação mínima
+- README principal do repositório;
+- explicação do objetivo do produto;
+- descrição do escopo do MVP;
+- instruções para execução local;
+- documentação básica da estrutura do sistema.
+
+---
+
+## Should — Itens importantes para fortalecer o MVP
+
+- melhoria da experiência visual da home;
+- contadores ou indicadores simples na página inicial;
+- refinamento dos painéis de candidato e empresa;
+- mensagens de feedback melhores para ações do usuário;
+- melhoria na clareza de navegação;
+- ajustes adicionais de responsividade;
+- melhoria do conteúdo e da cobertura das respostas do chatbot;
+- organização mais completa da documentação em pasta `docs/`;
+- detalhamento técnico e funcional do projeto;
+- padronização maior dos textos da interface;
+- preparação do projeto para apresentação acadêmica.
+
+---
+
+## Could — Itens desejáveis, mas não obrigatórios nesta fase
+
+- filtros simples de vagas;
+- busca básica por vagas;
+- melhorias visuais adicionais no front-end;
+- ampliação do histórico do candidato;
+- recursos extras de gerenciamento para empresas;
+- mensagens mais dinâmicas no chatbot;
+- preenchimento assistido de etapas com apoio conversacional;
+- melhorias de acessibilidade mais amplas;
+- relatórios simples ou visão resumida de uso;
+- refinamentos extras de UX.
+
+---
+
+## Post-MVP — Evoluções futuras
+
+- integração mais avançada com WhatsApp;
+- IA mais robusta e integrada a fluxos do sistema;
+- uso de modelos locais ou externos com mais autonomia;
+- upload de currículo;
+- notificações automáticas;
+- histórico mais completo de contratações;
+- avaliação de candidatos e empresas;
+- painel administrativo ampliado;
+- versão SaaS;
+- infraestrutura de hospedagem mais madura;
+- recursos de analytics;
+- automações maiores de triagem e atendimento.
+
+---
+
+## Backlog e escopo realista
+
+Uma das decisões mais importantes do projeto foi não permitir que o backlog se tornasse maior do que a capacidade real de execução.
+
+Por isso, o Vulcano passou por uma reorganização para manter no MVP apenas aquilo que realmente ajuda a validar a proposta principal.
+
+Esse ponto é importante porque muitos projetos acadêmicos falham não por falta de ideia, mas por excesso de escopo. O backlog do Vulcano, portanto, precisa continuar sendo tratado como um instrumento de foco, e não como uma coleção infinita de possibilidades.
+
+---
+
+## Relação entre backlog e roadmap
+
+O backlog registra o que o produto precisa desenvolver e priorizar. Já o roadmap organiza a sequência de evolução dessas entregas ao longo do tempo.
+
+No caso do Vulcano, o backlog serve como base para:
+
+- divisão por etapas;
+- definição de sprints;
+- distribuição das entregas do time;
+- documentação da evolução do MVP.
+
+Assim, backlog e planejamento caminham juntos, mas não são a mesma coisa.
+
+---
+
+## Refinamento do backlog
+
+O backlog do Vulcano deve ser revisto continuamente à medida que o projeto evolui.
+
+O refinamento deve servir para:
+
+- remover itens que deixaram de fazer sentido;
+- reescrever itens vagos;
+- quebrar itens grandes em tarefas menores;
+- ajustar prioridades;
+- manter o foco no MVP;
+- preparar o que entra nas próximas etapas ou sprints.
+
+Essa prática ajuda a equipe a evitar retrabalho e a manter clareza sobre o que realmente precisa ser feito.
+
+---
+
+## Boas práticas adotadas no backlog do Vulcano
+
+Ao consolidar o backlog no repositório principal, é importante manter algumas boas práticas:
+
+- usar linguagem clara e objetiva;
+- separar o essencial do desejável;
+- não misturar MVP com ideias futuras sem sinalização;
+- manter coerência entre problema, solução e backlog;
+- priorizar valor antes de complexidade;
+- revisar frequentemente;
+- usar o backlog como instrumento de decisão.
+
+---
+
+## Estrutura sugerida da pasta
+
+Dentro de `docs/05-backlog/`, esta organização pode funcionar bem:
+
+```text
+docs/05-backlog/
+  README.md
+  backlog-detalhado.md
+  roadmap-inicial.md
+  criterios-de-priorizacao.md
