@@ -1,0 +1,153 @@
+# Evidências do Projeto Vulcano
+
+## Visão geral
+
+A seção de evidências do projeto **Vulcano** tem como objetivo reunir e organizar os registros que demonstram a evolução real do trabalho, desde a identificação do problema até a construção do MVP.
+
+Mais do que servir como um arquivo de apoio, esta área é importante para mostrar que o projeto foi desenvolvido com base em etapas concretas, decisões documentadas, materiais produzidos, testes visuais, organização do produto e consolidação progressiva da proposta.
+
+As evidências ajudam a tornar o projeto mais verificável, mais apresentável e mais consistente tanto no contexto acadêmico quanto na organização interna da equipe.
+
+---
+
+## Finalidade das evidências
+
+As evidências existem para comprovar que o projeto não ficou apenas no campo da ideia.
+
+Elas servem para registrar:
+
+- a construção do raciocínio do projeto;
+- a análise do problema;
+- a definição da solução;
+- a evolução da estrutura do MVP;
+- a organização do backlog e do planejamento;
+- o desenvolvimento visual e funcional;
+- a preparação para apresentação e avaliação.
+
+Além disso, essa seção facilita a consulta futura e fortalece a defesa do projeto.
+
+---
+
+## Tipos de evidências relevantes no Vulcano
+
+No contexto do Vulcano, as evidências podem ser organizadas em alguns grupos principais.
+
+### 1. Evidências de análise e descoberta
+Materiais que mostram como o problema foi estudado e como a proposta do projeto foi amadurecida.
+
+Exemplos:
+- registros de discussão sobre o problema;
+- materiais conceituais produzidos;
+- mapas de empatia;
+- personas;
+- jornadas;
+- 5W2H;
+- How Might We;
+- sínteses de contexto.
+
+### 2. Evidências de organização do produto
+Materiais que demonstram como a equipe estruturou o que seria feito.
+
+Exemplos:
+- backlog do produto;
+- roadmap inicial;
+- organização por sprints;
+- critérios de priorização;
+- decisões sobre escopo do MVP;
+- reorganização dos repositórios.
+
+### 3. Evidências de desenvolvimento do MVP
+Materiais que mostram a evolução prática da aplicação.
+
+Exemplos:
+- prints das telas;
+- registros das rotas e fluxos principais;
+- páginas implementadas;
+- testes de cadastro, login, vagas e candidatura;
+- integração visual do chatbot;
+- estrutura do banco;
+- funcionamento do fluxo ponta a ponta.
+
+### 4. Evidências de documentação e consolidação
+Materiais que comprovam a organização do projeto no GitHub e a consolidação do repositório principal.
+
+Exemplos:
+- README principal;
+- pasta `docs/`;
+- estrutura de pastas do projeto;
+- consolidação de materiais antes distribuídos em vários repositórios;
+- organização final do MVP como repositório central.
+
+### 5. Evidências para apresentação e avaliação
+Materiais preparados para demonstrar o projeto na disciplina.
+
+Exemplos:
+- imagens da interface;
+- protótipos;
+- roteiro de apresentação;
+- estrutura dos slides;
+- prints de funcionalidades;
+- registros de testes e validações.
+
+---
+
+## Papel desta pasta no repositório principal
+
+Ao consolidar o projeto no `vulcano-web-mvp`, a pasta de evidências passa a ter um papel importante de apoio visual e documental.
+
+Ela permite que qualquer pessoa que acesse o repositório entenda que:
+
+- houve uma construção progressiva do projeto;
+- a proposta passou por refinamento;
+- o MVP não surgiu isoladamente;
+- existe material que sustenta a solução apresentada;
+- a equipe possui registros do processo e do resultado.
+
+Isso é especialmente relevante em contexto acadêmico, onde o produto final normalmente precisa ser acompanhado de justificativa e comprovação do processo.
+
+---
+
+## O que deve entrar como evidência
+
+Nem todo arquivo antigo precisa ser jogado nesta pasta. O ideal é manter aqui apenas materiais que realmente ajudam a demonstrar o projeto.
+
+Devem entrar evidências como:
+
+- imagens do sistema funcionando;
+- prints das telas principais;
+- registros visuais do fluxo do usuário;
+- protótipos e referências visuais relevantes;
+- capturas do backlog ou da organização do projeto;
+- materiais que ajudem na defesa da proposta;
+- documentos ou arquivos que comprovem etapas importantes.
+
+A lógica deve ser: **evidência útil, objetiva e alinhada ao MVP**.
+
+---
+
+## O que evitar nesta pasta
+
+Para não transformar a seção de evidências em um depósito desorganizado, é importante evitar:
+
+- arquivos duplicados sem necessidade;
+- imagens soltas sem identificação;
+- materiais antigos que não representam mais a direção do projeto;
+- excesso de documentos conceituais que já estejam melhor organizados em outras pastas;
+- prints sem contexto;
+- arquivos irrelevantes para apresentação, validação ou histórico do MVP.
+
+As evidências precisam ser selecionadas com critério.
+
+---
+
+## Organização sugerida das evidências
+
+Uma forma prática de organizar esta pasta é separar os materiais por tipo.
+
+```text
+docs/07-evidencias/
+  README.md
+  imagens/
+  prototipos/
+  testes/
+  organizacao/
