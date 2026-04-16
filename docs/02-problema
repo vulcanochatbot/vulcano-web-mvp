@@ -1,0 +1,186 @@
+# Problema que o Projeto Vulcano Busca Resolver
+
+## Visão geral do problema
+
+O projeto **Vulcano** nasce da necessidade de enfrentar um problema recorrente na construção civil: a dificuldade de contratar profissionais de forma rápida, organizada, acessível e confiável.
+
+Embora exista demanda constante por mão de obra no setor, o processo de contratação ainda costuma acontecer de maneira muito informal, com baixa padronização das informações, forte dependência de indicações e uso de canais dispersos. Isso gera atrasos, retrabalho e dificuldade tanto para quem contrata quanto para quem busca uma oportunidade.
+
+O problema central não está apenas na falta de vagas ou de profissionais, mas na forma como essa conexão acontece hoje.
+
+---
+
+## Situação atual observada
+
+Na prática, muitas contratações na construção civil acontecem por meios improvisados, como:
+
+- indicações informais;
+- grupos de WhatsApp;
+- contatos pessoais;
+- mensagens soltas e despadronizadas;
+- divulgação limitada e pouco estruturada;
+- triagem manual feita com pressa.
+
+Nesse cenário, empresas e construtoras frequentemente precisam preencher vagas com urgência, mas não possuem um fluxo claro para encontrar, comparar e selecionar profissionais.
+
+Ao mesmo tempo, muitos trabalhadores têm dificuldade para apresentar suas informações de forma organizada, o que reduz sua visibilidade e prejudica sua entrada em novas oportunidades.
+
+---
+
+## Principais dores identificadas
+
+### 1. Informalidade no recrutamento
+
+Grande parte das contratações acontece sem um processo estruturado. Isso significa que informações importantes sobre experiência, disponibilidade, localização e função exercida nem sempre são registradas de forma clara.
+
+Como consequência, a contratação depende demais de memória, indicação ou confiança informal, em vez de um processo mais organizado e verificável.
+
+### 2. Falta de padronização das informações
+
+Os profissionais costumam enviar dados de maneiras diferentes: texto solto, áudio, foto, mensagens curtas ou incompletas. Já as empresas muitas vezes divulgam vagas com poucos detalhes ou por canais fragmentados.
+
+Esse desencontro dificulta a triagem, torna a comparação injusta e aumenta o tempo gasto na seleção.
+
+### 3. Dificuldade para encontrar profissionais com rapidez
+
+Muitas empresas precisam montar ou completar equipes em pouco tempo. Quando não existe uma base organizada de candidatos e vagas, o processo se torna mais lento e sujeito a falhas.
+
+Essa lentidão impacta diretamente o andamento das atividades, podendo gerar atrasos operacionais e aumento de custo.
+
+### 4. Barreiras de acesso digital
+
+Parte relevante do público da construção civil utiliza principalmente o celular e o WhatsApp como ferramenta de comunicação. Além disso, existem perfis com baixa familiaridade com plataformas digitais complexas e, em alguns casos, dificuldades de leitura e escrita.
+
+Isso exige soluções mais simples, diretas e acessíveis.
+
+### 5. Ausência de histórico e organização
+
+Sem uma plataforma estruturada, empresas acabam perdendo registros de candidatos já conhecidos, profissionais avaliados anteriormente e informações úteis para recontratação.
+
+Esse problema gera retrabalho e reduz a eficiência do processo ao longo do tempo.
+
+---
+
+## Quem é afetado por esse problema
+
+### Profissionais da construção civil
+
+Trabalhadores que dependem de oportunidades frequentes e muitas vezes precisam se apresentar rapidamente para novas vagas. Quando não existe um canal simples e organizado, eles ficam limitados a indicações, contatos informais e pouca visibilidade.
+
+### Empresas e construtoras
+
+Organizações que precisam contratar com agilidade, mas enfrentam dificuldade para divulgar vagas, encontrar perfis compatíveis, confirmar disponibilidade e registrar informações de maneira eficiente.
+
+### Encarregados, RH e pequenos empreiteiros
+
+Pessoas que fazem a intermediação prática da contratação e sofrem com triagem manual, comunicação descentralizada, falta de padronização e dificuldade de acompanhar o processo.
+
+---
+
+## Consequências do problema
+
+A ausência de um fluxo simples e organizado de contratação gera impactos reais, como:
+
+- demora no preenchimento de vagas;
+- dificuldade de comparar candidatos;
+- maior risco de no-show;
+- retrabalho na triagem;
+- perda de informações importantes;
+- dependência excessiva de indicação;
+- atrasos na formação de equipes;
+- menor inclusão de profissionais que não dominam plataformas complexas;
+- processo pouco escalável para empresas.
+
+Em outras palavras, o problema afeta tanto a eficiência operacional quanto o acesso mais justo às oportunidades.
+
+---
+
+## Por que esse problema merece atenção
+
+A construção civil é um setor de grande relevância econômica e social, com demanda contínua por profissionais. Mesmo assim, o fluxo de contratação ainda apresenta fragilidades que poderiam ser reduzidas com uma solução mais simples, acessível e bem direcionada ao contexto real dos usuários.
+
+O problema merece atenção porque:
+
+- impacta diretamente o funcionamento das equipes;
+- prejudica a velocidade da contratação;
+- aumenta custos indiretos;
+- exclui ou dificulta o acesso de parte do público;
+- mantém processos pouco transparentes e pouco organizados;
+- mostra uma oportunidade clara para digitalização com foco em usabilidade.
+
+---
+
+## Limitações das soluções genéricas
+
+Plataformas genéricas de emprego nem sempre atendem bem a esse contexto, porque muitas vezes:
+
+- exigem cadastros longos ou complexos;
+- não conversam com a linguagem do público;
+- não refletem a urgência do setor;
+- não consideram o uso predominante do celular;
+- não reduzem o atrito do processo para empresas e trabalhadores da construção civil.
+
+Por isso, o problema não se resolve apenas com “mais uma plataforma de vagas”, mas com uma proposta mais alinhada à realidade do setor.
+
+---
+
+## Formulação do problema do Vulcano
+
+De forma objetiva, o problema que o Vulcano busca enfrentar pode ser descrito assim:
+
+> O processo de contratação de mão de obra na construção civil ainda ocorre de forma excessivamente informal, fragmentada e pouco acessível, dificultando a conexão rápida e organizada entre profissionais e empresas.
+
+Essa formulação ajuda a orientar o projeto para uma solução focada em simplicidade, clareza, padronização mínima e facilidade de uso.
+
+---
+
+## Recorte adotado pelo MVP
+
+O Vulcano não tenta resolver todos os problemas do setor de uma vez. Para tornar a proposta viável, o projeto adota um recorte claro no MVP.
+
+O foco inicial está em:
+
+- organizar o cadastro de candidatos e empresas;
+- permitir publicação e visualização de vagas;
+- facilitar candidaturas;
+- centralizar informações mínimas relevantes;
+- apoiar a navegação e o entendimento da plataforma com chatbot contextual.
+
+Esse recorte mantém o projeto alinhado com o problema principal sem tornar a solução complexa demais para a fase atual.
+
+---
+
+## Relação entre problema e proposta de valor
+
+O valor do Vulcano está justamente em atacar os pontos de maior atrito no processo atual.
+
+Em vez de prometer resolver todo o ecossistema da construção civil, o projeto propõe melhorar a etapa de conexão e organização entre quem oferece e quem procura trabalho.
+
+Assim, a proposta de valor do Vulcano é:
+
+- simplificar o processo;
+- tornar o acesso mais direto;
+- reduzir a desorganização;
+- facilitar a visualização de oportunidades;
+- criar uma base mínima estruturada para contratação.
+
+---
+
+## O que este documento registra
+
+Esta seção documenta:
+
+- qual problema motivou o projeto;
+- como esse problema aparece na prática;
+- quais dores foram identificadas;
+- quem é afetado por esse cenário;
+- por que a situação atual demanda uma solução mais adequada;
+- qual recorte o MVP adota para agir sobre esse contexto.
+
+Ela serve como base para a etapa seguinte da documentação, que aprofunda a pesquisa e as referências que sustentam a proposta do projeto.
+
+---
+
+## Resumo do problema
+
+O projeto Vulcano busca enfrentar a dificuldade de contratação na construção civil, marcada por informalidade, baixa padronização, canais dispersos, triagem manual e barreiras de acesso digital. Esse cenário prejudica profissionais e empresas, gera retrabalho e atrasa o preenchimento de vagas. O MVP propõe um recorte prático e viável para começar a resolver esse problema por meio de uma plataforma web simples, funcional e contextualizada ao setor.
