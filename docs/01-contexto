@@ -1,1 +1,149 @@
+# Contexto do Projeto Vulcano
 
+## Visão geral
+
+O **Vulcano Web MVP** é a versão principal e consolidada do projeto **Vulcano**, desenvolvido no contexto acadêmico do curso de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em um problema real da sociedade: a dificuldade de contratação de mão de obra na construção civil.
+
+O projeto surgiu a partir da percepção de que o processo de recrutamento nesse setor ainda acontece de forma muito informal, despadronizada e pouco acessível, tanto para empresas quanto para profissionais. Em muitos casos, a contratação depende de indicações, conversas espalhadas em aplicativos de mensagem, falta de registro das informações dos candidatos e ausência de um fluxo simples para divulgação e preenchimento de vagas.
+
+Diante disso, o Vulcano foi concebido como uma proposta tecnológica para **aproximar empresas/construtoras e profissionais da construção civil**, organizando melhor esse processo e tornando o acesso mais simples, claro e funcional.
+
+---
+
+## Origem do projeto
+
+O projeto foi inicialmente idealizado com uma proposta mais ampla e complexa, envolvendo uma estrutura maior de chatbot e automação. No entanto, com a evolução da disciplina e a necessidade de entrega de um **MVP funcional e viável**, a equipe decidiu **enxugar o escopo** e reorganizar a solução para uma versão mais realista.
+
+Essa mudança foi importante para transformar o projeto em algo realmente executável dentro do contexto acadêmico, sem perder sua proposta central de valor.
+
+A partir dessa redefinição, o Vulcano passou a ser estruturado como uma **plataforma web simples**, com foco em:
+
+- cadastro de candidatos;
+- cadastro de empresas;
+- publicação de vagas;
+- visualização de oportunidades;
+- candidatura em vagas;
+- gerenciamento básico de perfis e vagas;
+- suporte inicial por chatbot contextual.
+
+---
+
+## Contexto social e setorial
+
+A construção civil é um setor com alta demanda por profissionais, mas que ainda enfrenta problemas recorrentes no momento da contratação. Entre os principais pontos observados ao longo da análise do projeto, destacam-se:
+
+- forte presença de informalidade nos processos de recrutamento;
+- dificuldade para localizar profissionais qualificados com rapidez;
+- baixa padronização das informações compartilhadas entre candidatos e contratantes;
+- uso predominante do celular e do WhatsApp como principal meio de comunicação;
+- presença de trabalhadores com baixa familiaridade com plataformas digitais complexas;
+- retrabalho na triagem de perfis;
+- atrasos na formação de equipes e no preenchimento de vagas.
+
+Esse cenário mostra que o problema não é apenas tecnológico, mas também de **acessibilidade, organização da informação e praticidade no fluxo de contratação**.
+
+---
+
+## Público envolvido
+
+O projeto foi pensado para atender principalmente dois grupos centrais:
+
+### Profissionais / candidatos
+Pessoas que buscam oportunidades de trabalho na construção civil e precisam de um meio mais simples para se cadastrar, divulgar sua experiência e se candidatar a vagas.
+
+### Empresas / construtoras
+Organizações que precisam divulgar vagas, encontrar profissionais compatíveis com mais rapidez e organizar melhor as informações recebidas no processo de contratação.
+
+Além desses dois públicos principais, o projeto também considera o contexto de uso por pequenos empreiteiros, responsáveis por equipe, encarregados e setores de recrutamento que hoje operam com processos muito manuais.
+
+---
+
+## Direção atual do projeto
+
+Na sua fase atual, o Vulcano está consolidado como um **MVP web funcional**, com proposta mais enxuta e objetiva.
+
+A solução atual prioriza:
+
+- simplicidade de uso;
+- estrutura compreensível para desenvolvimento e manutenção;
+- fluxo funcional ponta a ponta;
+- escopo realista para entrega acadêmica;
+- possibilidade de evolução futura.
+
+Em vez de começar com uma arquitetura excessivamente complexa, o projeto passou a focar em uma base prática e executável, capaz de demonstrar valor real.
+
+---
+
+## Estrutura do MVP
+
+A versão atual do projeto foi organizada como uma aplicação web simples, com foco em clareza e funcionalidade. O MVP contempla:
+
+- página inicial com apresentação da proposta;
+- login de candidato e empresa;
+- cadastro de candidato;
+- cadastro de empresa;
+- listagem de vagas;
+- visualização de detalhes da vaga;
+- candidatura;
+- painel do candidato;
+- painel da empresa;
+- criação e gerenciamento básico de vagas;
+- chatbot contextual integrado à plataforma.
+
+Essa estrutura foi pensada para validar a proposta principal do projeto sem depender, neste primeiro momento, de uma arquitetura pesada ou de muitas integrações externas.
+
+---
+
+## Papel do chatbot no projeto
+
+Mesmo com a simplificação do escopo, o chatbot continua sendo parte importante da identidade do Vulcano.
+
+Dentro do MVP, ele atua como um **assistente contextual da plataforma**, ajudando o usuário a:
+
+- entender como o site funciona;
+- localizar áreas de cadastro e login;
+- compreender como ver vagas e se candidatar;
+- orientar empresas sobre publicação de vagas;
+- responder dúvidas básicas sobre o uso da plataforma.
+
+Assim, o chatbot reforça o diferencial do projeto sem comprometer a viabilidade técnica do MVP.
+
+---
+
+## Relação com a disciplina
+
+O Vulcano não foi desenvolvido apenas como exercício técnico, mas como uma proposta aplicada a um **caso real**, com preocupação social, acadêmica e prática.
+
+Dentro da disciplina, o projeto busca demonstrar:
+
+- identificação de um problema real;
+- análise do contexto e dos usuários;
+- construção de uma proposta de solução viável;
+- organização do desenvolvimento em etapas;
+- documentação técnica e funcional;
+- entrega de um MVP funcional.
+
+Por isso, o projeto reúne não apenas código, mas também pesquisa, contexto, backlog, planejamento, evidências e materiais de apresentação.
+
+---
+
+## Objetivo desta documentação
+
+Esta seção de contexto tem como objetivo registrar de forma clara:
+
+- de onde o projeto surgiu;
+- qual cenário motivou sua criação;
+- qual problema ele busca enfrentar;
+- quem são os usuários envolvidos;
+- por que a solução foi reorganizada em formato de MVP web;
+- como essa direção se conecta à proposta acadêmica e prática do Vulcano.
+
+Ela funciona como base para as demais seções da documentação, que aprofundam o problema, a pesquisa, a solução, o backlog, o planejamento, as evidências e a apresentação do projeto.
+
+---
+
+## Resumo do contexto
+
+O Vulcano é um projeto acadêmico com foco em impacto real, voltado para melhorar o processo de contratação na construção civil. Sua evolução levou a equipe a sair de uma proposta mais ampla e complexa para uma solução mais enxuta, objetiva e viável: um **MVP web funcional**, que conecta candidatos e empresas, organiza o fluxo de vagas e incorpora um chatbot contextual como apoio à navegação e ao atendimento inicial.
+
+Essa decisão torna o projeto mais coerente com o prazo, com os recursos disponíveis e com a necessidade de entregar uma solução realmente funcional, compreensível e demonstrável.
